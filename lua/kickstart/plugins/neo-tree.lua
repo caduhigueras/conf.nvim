@@ -17,7 +17,7 @@ return {
     filesystem = {
       window = {
         mappings = {
-          ['\\'] = 'close_window',
+          ['<C-n>'] = 'close_window',
         },
       },
     },
